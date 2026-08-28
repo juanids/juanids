@@ -21,4 +21,4 @@ I specialize in the device physics and material science of memristive systems ap
 ### 📫 Contact & Links
 * 📧 **Email:** juan.diaz@ib.edu.ar
 * 📄 [**My Interactive CV / Web**](https://juan-diaz-schneider.github.io)
-* 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=EW2BEwgAAAAJ) | 🔗 [**LinkedIn**](www.linkedin.com/in/juan-ignacio-d-58737b333) | 🔬 [**ResearchGate**]([#](https://www.researchgate.net/profile/Juan-Ignacio-Diaz-Schneider))
+* 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=EW2BEwgAAAAJ) | 🔗 [**LinkedIn**](https://linkedin.com/in/juan-ignacio-d-58737b333) | 🔬 [**ResearchGate**](https://researchgate.net/profile/Juan-Ignacio-Diaz-Schneider)
